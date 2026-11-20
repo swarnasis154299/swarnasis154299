@@ -19,7 +19,7 @@ OUT = ROOT / "assets"
 
 PROFILE = {
     "user": "swarnasis154299",
-    "name": "swarnasis154299",  # headline on the banner: put your real name here
+    "name": "Swarnasis Saha Roy",  # headline on the banner
     "role": "AI AUTOMATION BUILDER",
     "tagline": [
         "I build AI automations that do real work:",
